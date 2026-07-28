@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 384">
+<defs>
+ <linearGradient id="bbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071217"/><stop offset="1" stop-color="#03080b"/></linearGradient>
+ <filter id="sg"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1280" height="384" rx="18" fill="url(#bbg)"/>
+<rect x="1.5" y="1.5" width="1277" height="381" rx="17" fill="none" stroke="#405158" stroke-width="3"/>
+<g opacity=".38">
+ <polygon points="0,330 180,170 355,330" fill="#14242b"/><polygon points="95,330 260,110 430,330" fill="#1a2b32"/>
+ <polygon points="840,330 1010,125 1180,330" fill="#17262d"/><polygon points="990,330 1135,175 1280,330" fill="#1f3037"/>
+ <polygon points="0,384 0,300 185,384" fill="#183026"/><polygon points="1080,384 1280,270 1280,384" fill="#152b22"/>
+</g>
+<g fill="none" stroke="#49c88b" stroke-width="2.6" opacity=".48" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M18 70h92v45h90"/><circle cx="18" cy="70" r="5"/><circle cx="200" cy="115" r="5"/>
+ <path d="M25 120h65v85h105"/><circle cx="25" cy="120" r="5"/><circle cx="195" cy="205" r="5"/>
+ <path d="M1080 65h85v50h95"/><circle cx="1080" cy="65" r="5"/><circle cx="1260" cy="115" r="5"/>
+ <path d="M1055 295h80v-75h118"/><circle cx="1055" cy="295" r="5"/><circle cx="1253" cy="220" r="5"/>
+</g>
+<g transform="translate(35,5) scale(.40)"><polygon points="470,330 650,245 760,115 735,285" fill="#f3f5f6"/>
+<polygon points="650,245 760,115 820,150 735,285" fill="#d8dcde"/>
+<polygon points="735,285 820,150 790,240 820,315" fill="#aeb5b9"/>
+<polygon points="735,285 820,315 900,215 845,340" fill="#eff1f2"/>
+<polygon points="790,240 900,215 820,315" fill="#c8cdd0"/>
+<polygon points="845,340 900,215 875,350 790,410" fill="#727a7f"/>
+<polygon points="735,285 845,340 790,410 675,390" fill="#424a4f"/>
+<polygon points="470,330 735,285 675,390 520,430" fill="#92999d"/>
+<polygon points="470,330 520,430 390,410" fill="#2e3539"/>
+<polygon points="390,410 520,430 450,515 320,480" fill="#171e22"/>
+<polygon points="520,430 675,390 630,505 450,515" fill="#394247"/>
+<polygon points="675,390 790,410 700,545 630,505" fill="#d7dbdd"/>
+<polygon points="790,410 875,350 800,520 700,545" fill="#8e969a"/>
+<polygon points="700,545 800,520 750,655 660,630" fill="#eef0f1"/>
+<polygon points="630,505 700,545 660,630 570,590" fill="#5f686d"/>
+<polygon points="450,515 630,505 570,590 410,610" fill="#222a2e"/>
+<polygon points="320,480 450,515 410,610 270,570" fill="#173e33"/>
+<polygon points="270,570 410,610 365,700 230,650" fill="#216348"/>
+<polygon points="230,650 365,700 330,790 190,735" fill="#2d7654"/>
+<polygon points="365,700 570,590 520,770 330,790" fill="#174a39"/>
+<polygon points="570,590 660,630 620,780 520,770" fill="#273034"/>
+<polygon points="660,630 750,655 700,820 620,780" fill="#4b555a"/>
+<polygon points="520,770 620,780 570,900 465,835" fill="#1b2226"/>
+<polygon points="330,790 520,770 465,835 360,910" fill="#255e47"/><polygon points="675,325 706,310 690,350" fill="#49c88b"/></g>
+<rect x="390" y="56" width="690" height="272" rx="26" fill="#041015" fill-opacity=".96" stroke="#49c88b" stroke-opacity=".62" stroke-width="2"/>
+<text x="445" y="145" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" fill="#f1f5f6" letter-spacing="2">PATDEMILLE</text>
+<rect x="445" y="166" width="570" height="6" rx="3" fill="#49c88b" filter="url(#sg)"/>
+<text x="445" y="218" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#f1f5f6">ANALYSER  •  AUTOMATISER  •  PROTÉGER</text>
+<text x="445" y="262" font-family="Consolas, monospace" font-size="18" fill="#49c88b">OPEN SOURCE  /  HOMELAB  /  IA LOCALE  /  3D</text>
+<text x="445" y="297" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#aebdc0">Systèmes fiables, souverains et maintenables.</text>
+<g transform="translate(1110,112)">
+ <polygon points="0,35 82,0 125,24 42,58" fill="#647077"/>
+ <polygon points="42,58 125,24 125,190 42,224" fill="#283238"/>
+ <polygon points="0,35 42,58 42,224 0,198" fill="#111a1f" stroke="#738087"/>
+ <g fill="#49c88b"><rect x="10" y="62" width="20" height="5"/><rect x="10" y="92" width="20" height="5"/><rect x="10" y="122" width="20" height="5"/><rect x="10" y="152" width="20" height="5"/></g>
+ <circle cx="92" cy="120" r="23" fill="none" stroke="#49c88b" stroke-width="5"/><text x="77" y="128" font-family="Arial" font-size="22" font-weight="700" fill="#49c88b">G3</text>
+</g>
+</svg>
